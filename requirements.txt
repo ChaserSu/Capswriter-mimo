@@ -1,0 +1,8 @@
+openai>=1.40
+sounddevice>=0.4.6
+numpy>=1.26
+pypinyin>=0.51
+rapidfuzz>=3.6
+pynput>=1.7.6
+pyclip>=0.7
+zhconv>=1.4.3

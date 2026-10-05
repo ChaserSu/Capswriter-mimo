@@ -1,0 +1,10 @@
+# 热词词表：每行 `规范写法 | 别名1 | 别名2 ...`，# 开头为注释
+# 识别结果中出现任一别名（或与别名音素相近的误写）时，会替换为规范写法
+
+MiMo | mimo | 米莫 | 迷莫 | 咪莫 | 米摩 | 迷摩 | 咪摩 | 迷墨 | 米墨 | 铅墨
+MiMo-V2.5-ASR | mimo v2.5 asr | mimoasr
+mimo-v2.6-flash | mimo v2.6 flash
+CapsWriter | capswriter | 帽子写手
+GitHub | github | 吉特哈布
+Python | python | 派森
+macOS | macos | 苹果系统

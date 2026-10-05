@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=MiMo 语音输入
+Name[en]=MiMo Voice Input
+GenericName=Voice Input
+Comment=按住热键说话，识别后粘贴到光标处
+Comment[en]=Hold hotkey to speak, text is pasted at cursor
+Exec=sh -c 'cd "$(dirname "$0")" && exec ./启动.sh' %k
+Icon=input-keyboard
+Terminal=true
+Categories=Utility;AudioVideo;
+StartupNotify=false
